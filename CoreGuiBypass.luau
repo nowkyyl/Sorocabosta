@@ -18,7 +18,7 @@ IterGCTable(function(v)
         end
 
         if rawget(mt, '__mode') then
-            rawset(mt, '__mode', 'cupretoborradodefezes')
+            rawset(mt, '__mode', 'fk u')
         end
 
         if isReadonly then
